@@ -27,3 +27,7 @@ markdown: kramdown
 theme: jekyll-theme-architect
 
 show_downloads: true
+
+github:
+  zip_url: https://www.cise.ufl.edu/~helmy/papers/Interest-based%20mining%20of%20big%20mobile%20networks.pdf
+  another_url: ahttps://www.cise.ufl.edu/~helmy/papers/Interest-based%20mining%20of%20big%20mobile%20networks.pdf
